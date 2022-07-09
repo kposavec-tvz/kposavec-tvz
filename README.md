@@ -3,8 +3,7 @@ bacc. ing. techn. inf. KPosavec  - "portfolio" with a few projects done for clas
 Student @ TVZ.hr
   - The Computing Systems Module 
   - The Networks & Network Systems specialty  
- 
- -- Graduated from Professional Informatics Bachelor Program 
+  - Graduated from Professional Informatics Bachelor Program 
 
 
 Student employee @ t.ht.hr
